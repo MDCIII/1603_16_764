@@ -25,7 +25,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bangkok"@eng-Latn ,
         "กรุงเทพมหานคร"@tha-Thai ;
-    wdata:q7200235 "TH10" ;
+    wdata:Q7200235 "TH10" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -125,7 +125,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Samut Prakan"@eng-Latn ,
         "สมุทรปราการ"@tha-Thai ;
-    wdata:q7200235 "TH11" ;
+    wdata:Q7200235 "TH11" ;
 .
 
 <urn:mdciii:1603:16:764:1:12>
@@ -138,7 +138,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nonthaburi"@eng-Latn ,
         "นนทบุรี"@tha-Thai ;
-    wdata:q7200235 "TH12" ;
+    wdata:Q7200235 "TH12" ;
 .
 
 <urn:mdciii:1603:16:764:1:13>
@@ -151,7 +151,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Pathum Thani"@eng-Latn ,
         "ปทุมธานี"@tha-Thai ;
-    wdata:q7200235 "TH13" ;
+    wdata:Q7200235 "TH13" ;
 .
 
 <urn:mdciii:1603:16:764:1:14>
@@ -164,7 +164,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phra Nakhon Si Ayutthaya"@eng-Latn ,
         "พระนครศรีอยุธยา"@tha-Thai ;
-    wdata:q7200235 "TH14" ;
+    wdata:Q7200235 "TH14" ;
 .
 
 <urn:mdciii:1603:16:764:1:15>
@@ -177,7 +177,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ang Thong"@eng-Latn ,
         "อ่างทอง"@tha-Thai ;
-    wdata:q7200235 "TH15" ;
+    wdata:Q7200235 "TH15" ;
 .
 
 <urn:mdciii:1603:16:764:1:16>
@@ -190,7 +190,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lop Buri"@eng-Latn ,
         "ลพบุรี"@tha-Thai ;
-    wdata:q7200235 "TH16" ;
+    wdata:Q7200235 "TH16" ;
 .
 
 <urn:mdciii:1603:16:764:1:17>
@@ -203,7 +203,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sing Buri"@eng-Latn ,
         "สิงห์บุรี"@tha-Thai ;
-    wdata:q7200235 "TH17" ;
+    wdata:Q7200235 "TH17" ;
 .
 
 <urn:mdciii:1603:16:764:1:18>
@@ -216,7 +216,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chai Nat"@eng-Latn ,
         "ชัยนาท"@tha-Thai ;
-    wdata:q7200235 "TH18" ;
+    wdata:Q7200235 "TH18" ;
 .
 
 <urn:mdciii:1603:16:764:1:19>
@@ -229,7 +229,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Saraburi"@eng-Latn ,
         "สระบุรี"@tha-Thai ;
-    wdata:q7200235 "TH19" ;
+    wdata:Q7200235 "TH19" ;
 .
 
 <urn:mdciii:1603:16:764:1:20>
@@ -242,7 +242,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chon Buri"@eng-Latn ,
         "ชลบุรี"@tha-Thai ;
-    wdata:q7200235 "TH20" ;
+    wdata:Q7200235 "TH20" ;
 .
 
 <urn:mdciii:1603:16:764:1:21>
@@ -255,7 +255,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Rayong"@eng-Latn ,
         "ระยอง"@tha-Thai ;
-    wdata:q7200235 "TH21" ;
+    wdata:Q7200235 "TH21" ;
 .
 
 <urn:mdciii:1603:16:764:1:22>
@@ -268,7 +268,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chanthaburi"@eng-Latn ,
         "จันทบุรี"@tha-Thai ;
-    wdata:q7200235 "TH22" ;
+    wdata:Q7200235 "TH22" ;
 .
 
 <urn:mdciii:1603:16:764:1:23>
@@ -281,7 +281,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Trat"@eng-Latn ,
         "ตราด"@tha-Thai ;
-    wdata:q7200235 "TH23" ;
+    wdata:Q7200235 "TH23" ;
 .
 
 <urn:mdciii:1603:16:764:1:24>
@@ -294,7 +294,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chachoengsao"@eng-Latn ,
         "ฉะเชิงเทรา"@tha-Thai ;
-    wdata:q7200235 "TH24" ;
+    wdata:Q7200235 "TH24" ;
 .
 
 <urn:mdciii:1603:16:764:1:25>
@@ -307,7 +307,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Prachin Buri"@eng-Latn ,
         "ปราจีนบุรี"@tha-Thai ;
-    wdata:q7200235 "TH25" ;
+    wdata:Q7200235 "TH25" ;
 .
 
 <urn:mdciii:1603:16:764:1:26>
@@ -320,7 +320,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nakhon Nayok"@eng-Latn ,
         "นครนายก"@tha-Thai ;
-    wdata:q7200235 "TH26" ;
+    wdata:Q7200235 "TH26" ;
 .
 
 <urn:mdciii:1603:16:764:1:27>
@@ -333,7 +333,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sa Kaeo"@eng-Latn ,
         "สระแก้ว"@tha-Thai ;
-    wdata:q7200235 "TH27" ;
+    wdata:Q7200235 "TH27" ;
 .
 
 <urn:mdciii:1603:16:764:1:30>
@@ -346,7 +346,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nakhon Ratchasima"@eng-Latn ,
         "นครราชสีมา"@tha-Thai ;
-    wdata:q7200235 "TH30" ;
+    wdata:Q7200235 "TH30" ;
 .
 
 <urn:mdciii:1603:16:764:1:31>
@@ -359,7 +359,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Buri Ram"@eng-Latn ,
         "บุรีรัมย์"@tha-Thai ;
-    wdata:q7200235 "TH31" ;
+    wdata:Q7200235 "TH31" ;
 .
 
 <urn:mdciii:1603:16:764:1:32>
@@ -372,7 +372,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Surin"@eng-Latn ,
         "สุรินทร์"@tha-Thai ;
-    wdata:q7200235 "TH32" ;
+    wdata:Q7200235 "TH32" ;
 .
 
 <urn:mdciii:1603:16:764:1:33>
@@ -385,7 +385,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Si Sa Ket"@eng-Latn ,
         "ศรีสะเกษ"@tha-Thai ;
-    wdata:q7200235 "TH33" ;
+    wdata:Q7200235 "TH33" ;
 .
 
 <urn:mdciii:1603:16:764:1:34>
@@ -398,7 +398,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ubon Ratchathani"@eng-Latn ,
         "อุบลราชธานี"@tha-Thai ;
-    wdata:q7200235 "TH34" ;
+    wdata:Q7200235 "TH34" ;
 .
 
 <urn:mdciii:1603:16:764:1:35>
@@ -411,7 +411,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Yasothon"@eng-Latn ,
         "ยโสธร"@tha-Thai ;
-    wdata:q7200235 "TH35" ;
+    wdata:Q7200235 "TH35" ;
 .
 
 <urn:mdciii:1603:16:764:1:36>
@@ -424,7 +424,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chaiyaphum"@eng-Latn ,
         "ชัยภูมิ"@tha-Thai ;
-    wdata:q7200235 "TH36" ;
+    wdata:Q7200235 "TH36" ;
 .
 
 <urn:mdciii:1603:16:764:1:37>
@@ -437,7 +437,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Amnat Charoen"@eng-Latn ,
         "อำนาจเจริญ"@tha-Thai ;
-    wdata:q7200235 "TH37" ;
+    wdata:Q7200235 "TH37" ;
 .
 
 <urn:mdciii:1603:16:764:1:38>
@@ -450,7 +450,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bueng Kan"@eng-Latn ,
         "บึงกาฬ"@tha-Thai ;
-    wdata:q7200235 "TH38" ;
+    wdata:Q7200235 "TH38" ;
 .
 
 <urn:mdciii:1603:16:764:1:39>
@@ -463,7 +463,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nong Bua Lam Phu"@eng-Latn ,
         "หนองบัวลำภู"@tha-Thai ;
-    wdata:q7200235 "TH39" ;
+    wdata:Q7200235 "TH39" ;
 .
 
 <urn:mdciii:1603:16:764:1:40>
@@ -476,7 +476,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Khon Kaen"@eng-Latn ,
         "ขอนแก่น"@tha-Thai ;
-    wdata:q7200235 "TH40" ;
+    wdata:Q7200235 "TH40" ;
 .
 
 <urn:mdciii:1603:16:764:1:41>
@@ -489,7 +489,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Udon Thani"@eng-Latn ,
         "อุดรธานี"@tha-Thai ;
-    wdata:q7200235 "TH41" ;
+    wdata:Q7200235 "TH41" ;
 .
 
 <urn:mdciii:1603:16:764:1:42>
@@ -502,7 +502,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Loei"@eng-Latn ,
         "เลย"@tha-Thai ;
-    wdata:q7200235 "TH42" ;
+    wdata:Q7200235 "TH42" ;
 .
 
 <urn:mdciii:1603:16:764:1:43>
@@ -515,7 +515,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nong Khai"@eng-Latn ,
         "หนองคาย"@tha-Thai ;
-    wdata:q7200235 "TH43" ;
+    wdata:Q7200235 "TH43" ;
 .
 
 <urn:mdciii:1603:16:764:1:44>
@@ -528,7 +528,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Maha Sarakham"@eng-Latn ,
         "มหาสารคาม"@tha-Thai ;
-    wdata:q7200235 "TH44" ;
+    wdata:Q7200235 "TH44" ;
 .
 
 <urn:mdciii:1603:16:764:1:45>
@@ -541,7 +541,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Roi Et"@eng-Latn ,
         "ร้อยเอ็ด"@tha-Thai ;
-    wdata:q7200235 "TH45" ;
+    wdata:Q7200235 "TH45" ;
 .
 
 <urn:mdciii:1603:16:764:1:46>
@@ -554,7 +554,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kalasin"@eng-Latn ,
         "กาฬสินธุ์"@tha-Thai ;
-    wdata:q7200235 "TH46" ;
+    wdata:Q7200235 "TH46" ;
 .
 
 <urn:mdciii:1603:16:764:1:47>
@@ -567,7 +567,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sakon Nakhon"@eng-Latn ,
         "สกลนคร"@tha-Thai ;
-    wdata:q7200235 "TH47" ;
+    wdata:Q7200235 "TH47" ;
 .
 
 <urn:mdciii:1603:16:764:1:48>
@@ -580,7 +580,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nakhon Phanom"@eng-Latn ,
         "นครพนม"@tha-Thai ;
-    wdata:q7200235 "TH48" ;
+    wdata:Q7200235 "TH48" ;
 .
 
 <urn:mdciii:1603:16:764:1:49>
@@ -593,7 +593,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mukdahan"@eng-Latn ,
         "มุกดาหาร"@tha-Thai ;
-    wdata:q7200235 "TH49" ;
+    wdata:Q7200235 "TH49" ;
 .
 
 <urn:mdciii:1603:16:764:1:50>
@@ -606,7 +606,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chiang Mai"@eng-Latn ,
         "เชียงใหม่"@tha-Thai ;
-    wdata:q7200235 "TH50" ;
+    wdata:Q7200235 "TH50" ;
 .
 
 <urn:mdciii:1603:16:764:1:51>
@@ -619,7 +619,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lamphun"@eng-Latn ,
         "ลำพูน"@tha-Thai ;
-    wdata:q7200235 "TH51" ;
+    wdata:Q7200235 "TH51" ;
 .
 
 <urn:mdciii:1603:16:764:1:52>
@@ -632,7 +632,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lampang"@eng-Latn ,
         "ลำปาง"@tha-Thai ;
-    wdata:q7200235 "TH52" ;
+    wdata:Q7200235 "TH52" ;
 .
 
 <urn:mdciii:1603:16:764:1:53>
@@ -645,7 +645,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Uttaradit"@eng-Latn ,
         "อุตรดิตถ์"@tha-Thai ;
-    wdata:q7200235 "TH53" ;
+    wdata:Q7200235 "TH53" ;
 .
 
 <urn:mdciii:1603:16:764:1:54>
@@ -658,7 +658,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phrae"@eng-Latn ,
         "แพร่"@tha-Thai ;
-    wdata:q7200235 "TH54" ;
+    wdata:Q7200235 "TH54" ;
 .
 
 <urn:mdciii:1603:16:764:1:55>
@@ -671,7 +671,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nan"@eng-Latn ,
         "น่าน"@tha-Thai ;
-    wdata:q7200235 "TH55" ;
+    wdata:Q7200235 "TH55" ;
 .
 
 <urn:mdciii:1603:16:764:1:56>
@@ -684,7 +684,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phayao"@eng-Latn ,
         "พะเยา"@tha-Thai ;
-    wdata:q7200235 "TH56" ;
+    wdata:Q7200235 "TH56" ;
 .
 
 <urn:mdciii:1603:16:764:1:57>
@@ -697,7 +697,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chiang Rai"@eng-Latn ,
         "เชียงราย"@tha-Thai ;
-    wdata:q7200235 "TH57" ;
+    wdata:Q7200235 "TH57" ;
 .
 
 <urn:mdciii:1603:16:764:1:58>
@@ -710,7 +710,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mae Hong Son"@eng-Latn ,
         "แม่ฮ่องสอน"@tha-Thai ;
-    wdata:q7200235 "TH58" ;
+    wdata:Q7200235 "TH58" ;
 .
 
 <urn:mdciii:1603:16:764:1:60>
@@ -723,7 +723,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nakhon Sawan"@eng-Latn ,
         "นครสวรรค์"@tha-Thai ;
-    wdata:q7200235 "TH60" ;
+    wdata:Q7200235 "TH60" ;
 .
 
 <urn:mdciii:1603:16:764:1:61>
@@ -736,7 +736,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Uthai Thani"@eng-Latn ,
         "อุทัยธานี"@tha-Thai ;
-    wdata:q7200235 "TH61" ;
+    wdata:Q7200235 "TH61" ;
 .
 
 <urn:mdciii:1603:16:764:1:62>
@@ -749,7 +749,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kamphaeng Phet"@eng-Latn ,
         "กำแพงเพชร"@tha-Thai ;
-    wdata:q7200235 "TH62" ;
+    wdata:Q7200235 "TH62" ;
 .
 
 <urn:mdciii:1603:16:764:1:63>
@@ -762,7 +762,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tak"@eng-Latn ,
         "ตาก"@tha-Thai ;
-    wdata:q7200235 "TH63" ;
+    wdata:Q7200235 "TH63" ;
 .
 
 <urn:mdciii:1603:16:764:1:64>
@@ -775,7 +775,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sukhothai"@eng-Latn ,
         "สุโขทัย"@tha-Thai ;
-    wdata:q7200235 "TH64" ;
+    wdata:Q7200235 "TH64" ;
 .
 
 <urn:mdciii:1603:16:764:1:65>
@@ -788,7 +788,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phitsanulok"@eng-Latn ,
         "พิษณุโลก"@tha-Thai ;
-    wdata:q7200235 "TH65" ;
+    wdata:Q7200235 "TH65" ;
 .
 
 <urn:mdciii:1603:16:764:1:66>
@@ -801,7 +801,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phichit"@eng-Latn ,
         "พิจิตร"@tha-Thai ;
-    wdata:q7200235 "TH66" ;
+    wdata:Q7200235 "TH66" ;
 .
 
 <urn:mdciii:1603:16:764:1:67>
@@ -814,7 +814,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phetchabun"@eng-Latn ,
         "เพชรบูรณ์"@tha-Thai ;
-    wdata:q7200235 "TH67" ;
+    wdata:Q7200235 "TH67" ;
 .
 
 <urn:mdciii:1603:16:764:1:70>
@@ -827,7 +827,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ratchaburi"@eng-Latn ,
         "ราชบุรี"@tha-Thai ;
-    wdata:q7200235 "TH70" ;
+    wdata:Q7200235 "TH70" ;
 .
 
 <urn:mdciii:1603:16:764:1:71>
@@ -840,7 +840,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kanchanaburi"@eng-Latn ,
         "กาญจนบุรี"@tha-Thai ;
-    wdata:q7200235 "TH71" ;
+    wdata:Q7200235 "TH71" ;
 .
 
 <urn:mdciii:1603:16:764:1:72>
@@ -853,7 +853,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Suphan Buri"@eng-Latn ,
         "สุพรรณบุรี"@tha-Thai ;
-    wdata:q7200235 "TH72" ;
+    wdata:Q7200235 "TH72" ;
 .
 
 <urn:mdciii:1603:16:764:1:73>
@@ -866,7 +866,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nakhon Pathom"@eng-Latn ,
         "นครปฐม"@tha-Thai ;
-    wdata:q7200235 "TH73" ;
+    wdata:Q7200235 "TH73" ;
 .
 
 <urn:mdciii:1603:16:764:1:74>
@@ -879,7 +879,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Samut Sakhon"@eng-Latn ,
         "สมุทรสาคร"@tha-Thai ;
-    wdata:q7200235 "TH74" ;
+    wdata:Q7200235 "TH74" ;
 .
 
 <urn:mdciii:1603:16:764:1:75>
@@ -892,7 +892,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Samut Songkhram"@eng-Latn ,
         "สมุทรสงคราม"@tha-Thai ;
-    wdata:q7200235 "TH75" ;
+    wdata:Q7200235 "TH75" ;
 .
 
 <urn:mdciii:1603:16:764:1:76>
@@ -905,7 +905,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phetchaburi"@eng-Latn ,
         "เพชรบุรี"@tha-Thai ;
-    wdata:q7200235 "TH76" ;
+    wdata:Q7200235 "TH76" ;
 .
 
 <urn:mdciii:1603:16:764:1:77>
@@ -918,7 +918,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Prachuap Khiri Khan"@eng-Latn ,
         "ประจวบคีรีขันธ์"@tha-Thai ;
-    wdata:q7200235 "TH77" ;
+    wdata:Q7200235 "TH77" ;
 .
 
 <urn:mdciii:1603:16:764:1:80>
@@ -931,7 +931,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nakhon Si Thammarat"@eng-Latn ,
         "นครศรีธรรมราช"@tha-Thai ;
-    wdata:q7200235 "TH80" ;
+    wdata:Q7200235 "TH80" ;
 .
 
 <urn:mdciii:1603:16:764:1:81>
@@ -944,7 +944,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Krabi"@eng-Latn ,
         "กระบี่"@tha-Thai ;
-    wdata:q7200235 "TH81" ;
+    wdata:Q7200235 "TH81" ;
 .
 
 <urn:mdciii:1603:16:764:1:82>
@@ -957,7 +957,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phangnga"@eng-Latn ,
         "พังงา"@tha-Thai ;
-    wdata:q7200235 "TH82" ;
+    wdata:Q7200235 "TH82" ;
 .
 
 <urn:mdciii:1603:16:764:1:83>
@@ -970,7 +970,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phuket"@eng-Latn ,
         "ภูเก็ต"@tha-Thai ;
-    wdata:q7200235 "TH83" ;
+    wdata:Q7200235 "TH83" ;
 .
 
 <urn:mdciii:1603:16:764:1:84>
@@ -983,7 +983,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Surat Thani"@eng-Latn ,
         "สุราษฎร์ธานี"@tha-Thai ;
-    wdata:q7200235 "TH84" ;
+    wdata:Q7200235 "TH84" ;
 .
 
 <urn:mdciii:1603:16:764:1:85>
@@ -996,7 +996,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ranong"@eng-Latn ,
         "ระนอง"@tha-Thai ;
-    wdata:q7200235 "TH85" ;
+    wdata:Q7200235 "TH85" ;
 .
 
 <urn:mdciii:1603:16:764:1:86>
@@ -1009,7 +1009,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chumphon"@eng-Latn ,
         "ชุมพร"@tha-Thai ;
-    wdata:q7200235 "TH86" ;
+    wdata:Q7200235 "TH86" ;
 .
 
 <urn:mdciii:1603:16:764:1:90>
@@ -1022,7 +1022,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Songkhla"@eng-Latn ,
         "สงขลา"@tha-Thai ;
-    wdata:q7200235 "TH90" ;
+    wdata:Q7200235 "TH90" ;
 .
 
 <urn:mdciii:1603:16:764:1:91>
@@ -1035,7 +1035,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Satun"@eng-Latn ,
         "สตูล"@tha-Thai ;
-    wdata:q7200235 "TH91" ;
+    wdata:Q7200235 "TH91" ;
 .
 
 <urn:mdciii:1603:16:764:1:92>
@@ -1048,7 +1048,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Trang"@eng-Latn ,
         "ตรัง"@tha-Thai ;
-    wdata:q7200235 "TH92" ;
+    wdata:Q7200235 "TH92" ;
 .
 
 <urn:mdciii:1603:16:764:1:93>
@@ -1061,7 +1061,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phatthalung"@eng-Latn ,
         "พัทลุง"@tha-Thai ;
-    wdata:q7200235 "TH93" ;
+    wdata:Q7200235 "TH93" ;
 .
 
 <urn:mdciii:1603:16:764:1:94>
@@ -1074,7 +1074,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Pattani"@eng-Latn ,
         "ปัตตานี"@tha-Thai ;
-    wdata:q7200235 "TH94" ;
+    wdata:Q7200235 "TH94" ;
 .
 
 <urn:mdciii:1603:16:764:1:95>
@@ -1087,7 +1087,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Yala"@eng-Latn ,
         "ยะลา"@tha-Thai ;
-    wdata:q7200235 "TH95" ;
+    wdata:Q7200235 "TH95" ;
 .
 
 <urn:mdciii:1603:16:764:1:96>
@@ -1100,6 +1100,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Narathiwat"@eng-Latn ,
         "นราธิวาส"@tha-Thai ;
-    wdata:q7200235 "TH96" ;
+    wdata:Q7200235 "TH96" ;
 .
 
